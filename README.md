@@ -100,4 +100,4 @@ Desenvolvido como projeto acadêmico no curso de **Sistemas de Informação — 
 
 * **Eduardo Carmo** ([@Carmoso](https://github.com/Carmoso))
 * **Ana Clara Soares** ([@Aclssilva](https://github.com/Aclssilva))
-* **Isadora Piloto**
+* **Isadora Piloto** ([@Dora136](https://github.com/Dora136))
